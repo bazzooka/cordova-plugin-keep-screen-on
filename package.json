@@ -1,0 +1,28 @@
+{
+  "name": "cordova-plugin-keep-screen-on",
+  "version": "0.1.0",
+  "description": "Prevent the screen of the mobile device from falling asleep",
+  "cordova": {
+    "id": "cordova-plugin-keep-screen-on",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova",
+    "keep screen on",
+    "screen dim",
+    "battery saver",
+    "power management"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.4.0"
+    }
+  ],
+  "author": "bazzooka",
+  "license": "Apache 2.0"
+}
